@@ -9,3 +9,4 @@ git add .
 #git 正式推入
 git commit -m "COMMIT NAME"
 commit 是一个node而master是一个tag
+#.gitignore忽略此文件夹下的档案
