@@ -1,0 +1,7 @@
+#开启一个git server
+git init
+#查看git的状态
+git status
+#把档案加入git master
+git add .
+或者git add memo.txt
