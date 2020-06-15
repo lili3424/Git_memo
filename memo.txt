@@ -12,3 +12,7 @@ commit 是一个node而master是一个tag
 #.gitignore忽略此文件夹下的档案
 #git remote查看远端资料库
 #git push把专案推上Github
+＃从远端把档案拉下来
+git pull = git fetch + git merge
+#远端复制专案到本地
+git clone https.....
